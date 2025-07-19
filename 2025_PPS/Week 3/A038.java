@@ -3,7 +3,7 @@
 주어진 수 x에 대한 제곱근을 구한다. 만약 정수로 떨어지지 않으면 가장 가까운 내림수를 반환한다.
  */
 
-public class A027 {
+public class A038 {
     public int mySqrt(int x) {
         if(x<2) return x; // x가 2미만인 경우 x그대로 반환
 
